@@ -1,1 +1,3 @@
-/HomeWorkJavaCore_2.2_OOP.iml
+*.iml
+/out/
+/.idea/
